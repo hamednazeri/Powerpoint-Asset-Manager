@@ -1,0 +1,20 @@
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\bin\Debug\PowerpointAssetManager.exe.config
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.csprojResolveAssemblyReference.cache
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.csproj.ResolveComReference.cache
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.PowerpointAssetManager.resources
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.Properties.Resources.resources
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.csproj.GenerateResource.Cache
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\bin\Debug\PowerpointAssetManager.exe
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\bin\Debug\PowerpointAssetManager.pdb
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.exe
+C:\Users\Hamed Nazeri\Desktop\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.pdb
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\bin\Debug\PowerpointAssetManager.exe.config
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.csproj.ResolveComReference.cache
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.exe
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.pdb
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.csprojResolveAssemblyReference.cache
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.PowerpointAssetManager.resources
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.Properties.Resources.resources
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\obj\Debug\PowerpointAssetManager.csproj.GenerateResource.Cache
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\bin\Debug\PowerpointAssetManager.exe
+D:\Projects\PowerpointAssetManager\PowerpointAssetManager\bin\Debug\PowerpointAssetManager.pdb
